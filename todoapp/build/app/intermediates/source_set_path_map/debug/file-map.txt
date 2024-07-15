@@ -1,0 +1,15 @@
+com.example.todoapp-jetified-window-1.0.0-beta04-0 C:\Users\Dev\.gradle\caches\transforms-3\032f4dff274e516110d9363a9793a3e3\transformed\jetified-window-1.0.0-beta04\res
+com.example.todoapp-jetified-window-java-1.0.0-beta04-1 C:\Users\Dev\.gradle\caches\transforms-3\142c24f2530665bb6deb4123ab140714\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.todoapp-core-1.6.0-2 C:\Users\Dev\.gradle\caches\transforms-3\2579a7de00054bf46a8dbc332552f622\transformed\core-1.6.0\res
+com.example.todoapp-jetified-annotation-experimental-1.1.0-3 C:\Users\Dev\.gradle\caches\transforms-3\3f96ca76068ab400b494bc7d541ee256\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.todoapp-debug-4 F:\Flutter\Udemy_course\To-Do\todoapp\android\app\src\debug\res
+com.example.todoapp-main-5 F:\Flutter\Udemy_course\To-Do\todoapp\android\app\src\main\res
+com.example.todoapp-pngs-6 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\generated\res\pngs\debug
+com.example.todoapp-resValues-7 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\generated\res\resValues\debug
+com.example.todoapp-rs-8 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\generated\res\rs\debug
+com.example.todoapp-mergeDebugResources-9 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.todoapp-mergeDebugResources-10 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.todoapp-merged_res-11 F:\Flutter\Udemy_course\To-Do\todoapp\build\app\intermediates\merged_res\debug
+com.example.todoapp-packaged_res-12 F:\Flutter\Udemy_course\To-Do\todoapp\build\fluttertoast\intermediates\packaged_res\debug
+com.example.todoapp-packaged_res-13 F:\Flutter\Udemy_course\To-Do\todoapp\build\path_provider_android\intermediates\packaged_res\debug
+com.example.todoapp-packaged_res-14 F:\Flutter\Udemy_course\To-Do\todoapp\build\shared_preferences_android\intermediates\packaged_res\debug
