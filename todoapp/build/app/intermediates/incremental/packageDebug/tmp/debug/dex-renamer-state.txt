@@ -1,4 +1,0 @@
-#Mon Jul 15 16:14:51 IST 2024
-base.0=F\:\\Flutter\\Udemy_course\\To-Do\\todoapp\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
